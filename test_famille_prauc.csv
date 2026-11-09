@@ -1,0 +1,8 @@
+famille,nb_flux,hasard,Mahalanobis,IsolationForest,OneClassSVM,DBSCAN
+Bot,1429,0.002,0.003,0.006,0.002,0.007
+DDoS,128014,0.1525,0.488,0.531,0.459,0.524
+Infiltration,36,0.0001,0.001,0.004,0.01,0.001
+PortScan,1956,0.0027,0.014,0.017,0.005,0.027
+Web Attack - Brute Force,1470,0.0021,0.005,0.005,0.011,0.004
+Web Attack - Sql Injection,21,0.0,0.0,0.0,0.0,0.0
+Web Attack - XSS,652,0.0009,0.003,0.002,0.005,0.002
